@@ -10,7 +10,7 @@ I'm from Tirupati, Andhra Pradesh, India. I have done my undergraduate at Jawaha
 
 # Plan
 
-I would like to work as a Devops Engineer|Software Engineering|Frontend Developer
+I would like to work as a Devops Engineer|Software Engineer|Frontend Developer
 
 # Links
 
