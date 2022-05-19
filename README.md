@@ -6,7 +6,7 @@ I'm pursuing my Master's in Applied Computer Science. My course was started on S
 
 # Background
 
-I'm from Tirupati, Andhra Pradesh, India. I have done my undergraduate at Jawaharlal Nehru technological university Anantapur.
+I'm from Tirupati, Andhra Pradesh, India. I have done my undergraduate at Jawaharlal Nehru technological university Anantapur. Recently I have completed my Master's in Applied Computer Science at Northwest Missorui State University.
 
 # Plan
 
@@ -20,4 +20,5 @@ I would like to work as a Devops Engineer|Software Engineer|Frontend Developer
 
 
 # Image
-![image](https://media-exp1.licdn.com/dms/image/C5103AQH7ptMNoMpx6w/profile-displayphoto-shrink_400_400/0/1526959324858?e=1648080000&v=beta&t=7C0v2bMJ4QwImHbNBvFJHjaX8HYBt-KXq-VOGfCHccc)
+![image](https://avatars.githubusercontent.com/u/67253469?s=400&u=3cafb7ff50563eea3bbc75f429d2341d1fa9a7d1&v=4)
+
