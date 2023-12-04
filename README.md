@@ -2,7 +2,7 @@
 
 # Current
 
-I'm pursuing my Master's in Applied Computer Science. My course was started on Spring 2021.
+I'm currently working as Associate Software Engineer at Q.ai - a Forbes company.
 
 # Background
 
@@ -10,7 +10,7 @@ I'm from Tirupati, Andhra Pradesh, India. I have done my undergraduate at Jawaha
 
 # Plan
 
-I would like to work as a Devops Engineer|Software Engineer|Frontend Developer
+I would like to work as a Software Engineer|Frontend Developer
 
 # Links
 
