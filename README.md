@@ -6,7 +6,7 @@ I'm currently working as Associate Software Engineer at Q.ai - a Forbes company.
 
 # Background
 
-I'm from Tirupati, Andhra Pradesh, India. I have done my undergraduate at Jawaharlal Nehru technological university Anantapur. Recently I have completed my Master's in Applied Computer Science at Northwest Missorui State University.
+Java Full Stack Developer with 4 years of experience in designing and developing web and enterprise applications. Proficient in Java, J2EE, Spring Boot, and JavaScript frameworks like Angular and React, with strong expertise in the full Software Development Life Cycle (SDLC), including Agile and Waterfall methodologies. Skilled in object-oriented design, multi-tier architectures, and implementing Java design patterns like MVC and Singleton. Extensive experience with web technologies (JSP, Servlets, AJAX, Hibernate, EJB), web services, and database management (Oracle, MySQL, DB2). Adept in CI/CD processes, using tools like GitHub, Jenkins, and Maven, and comfortable with deploying applications on servers like IBM WebSphere, Tomcat, and WebLogic. Highly collaborative and results-driven.
 
 # Plan
 
